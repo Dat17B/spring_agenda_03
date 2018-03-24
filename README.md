@@ -1,4 +1,4 @@
-# #5 Create a Web Page with a List of Students
+# #3 Create a Web Page with a List of Students
 ## The Job today is to create this index page
 
 <img src="/students_index.png" />   
@@ -14,11 +14,11 @@ This will involve:
 
 ## Literature
 This will be equevalent to what I show you in class.
-* [Creating a Students list page](https://github.com/StudentsAdministration/05_tutorial_students_list)    
+* [Creating a Students list page](https://github.com/Dat17B/spring_agenda_03_tutorial_students_list)    
 * [Model documentation](https://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/ui/Model.html)
 
 ## Exercises
-* [Create a Course List page](https://github.com/StudentsAdministration/05_exercise_create_courses/blob/master/README.md)
+* [Create a Course List page](https://github.com/Dat17B/spring_agenda_03_exercise_create_courses/blob/master/README.md)
 * [The Thymeleaf Interactive Tutorial](http://itutorial.thymeleaf.org/)    
 
 _<div align="right">&copy; clbo@kea.dk</div>_
